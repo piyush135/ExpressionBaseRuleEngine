@@ -1,0 +1,6 @@
+C:\Users\icsssd0336\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+C:\Users\icsssd0336\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+C:\Users\icsssd0336\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+C:\Users\icsssd0336\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ExpressionBaseRuleEngine.csprojResolveAssemblyReference.cache
+C:\Users\icsssd0336\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+C:\Users\icsssd0336\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb
